@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/well-code/static/css/main.f855e6bc.css",
+    "main.js": "/well-code/static/js/main.aa633a9d.js",
+    "static/js/453.591f528b.chunk.js": "/well-code/static/js/453.591f528b.chunk.js",
+    "index.html": "/well-code/index.html",
+    "main.f855e6bc.css.map": "/well-code/static/css/main.f855e6bc.css.map",
+    "main.aa633a9d.js.map": "/well-code/static/js/main.aa633a9d.js.map",
+    "453.591f528b.chunk.js.map": "/well-code/static/js/453.591f528b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.aa633a9d.js"
+  ]
+}
